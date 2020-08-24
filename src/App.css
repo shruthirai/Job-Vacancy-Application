@@ -148,9 +148,9 @@ button:focus {
 }
 
 .card-button {
-  margin-left: 100px;
   color: black;
   font-weight: 500;
+  padding: .375rem 3.05rem !important;
 }
 
 .card-button:hover {
